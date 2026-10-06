@@ -1,0 +1,5 @@
+ACTIVIDADES DEL EQUIPO
+
+[Esteban Villalobos]: Desarrollo la totalidad del proyecto de forma individual, organizado en las ramas developer1 a developer4
+(estructura de datos y validaciones, descuento e ingreso por vuelo, baja ocupacion y resultados, ordenamiento y reporte final) 
+e integro todo en main.
